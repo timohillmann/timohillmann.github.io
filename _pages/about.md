@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Header.jpg
+  image: header.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -16,4 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is me, Timo Hillmann.
+Ph.D student @ Chalmers University of Technology, Sweden.
+
+I am a Ph.D student working in the field of quantum information. My research focusses on the theory of quantum error correction with bosonic codes, typically with a focus on near-term devices. My projects so far range from the development architectures for bosonic codes realized in superconducting circuits as well as in optical systems, to the development of new error correction protocols and decoders with a focus on the utilization of analog information.
