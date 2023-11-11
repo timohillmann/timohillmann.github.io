@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-For an up-to-date list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=1kizn3kAAAAJ&hl=en).
+For an up-to-date list of publications, please see my  <a href="https://scholar.google.com/citations?user=1kizn3kAAAAJ&hl=en">Google Scholar</a> profile.
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} --group_by type,year --group_order ascending,descending %}
 </div>
