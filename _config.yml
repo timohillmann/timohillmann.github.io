@@ -8,7 +8,7 @@ middle_name:
 last_name: Hillmann
 email: hillmann@chalmers.se
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website of Timo Hillmann, a PhD student at Chalmers University of Technology.
 footer_text:
 keywords: bosonic codes, quantum error correction, quantum computing  # add your own keywords or leave empty
 
