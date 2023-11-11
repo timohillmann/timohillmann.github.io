@@ -2,7 +2,7 @@
 layout: page
 title: Kerr-free Nonlinear Quantum Optics with Superconducting Circuits
 description: 
-img: assets/img/12.jpg
+img: assets/img/snail_figure_1.png
 importance: 1
 category: work
 related_publications: hillmann_universal_2020, hillmann_designing_2022, lu_resolving_2023, eriksson_universal_2023
