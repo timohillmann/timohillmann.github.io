@@ -1,28 +1,169 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Timo Hillmann
-    - name: Languages
-      value: English, German
+name: Timo Hillmann
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Master of Science in Physics
-      institution: Rheinisch Westfälische Technische Hochschule Aachen, Aachen, Germany
-      year: 2018 - 2020
-    - title: Bachelor of Science in Physics
-      institution: Rheinisch Westfälische Technische Hochschule Aachen, Aachen, Germany
-      year: 2015 - 2018
+contact_information:
+  email: hillmann@chalmers.se
+  orcid: 0000-0002-1476-0647
+  google_scholar: https://scholar.google.com/citations?user=1kizn3kAAAAJ&hl
 
+education:
+  - period: "Present - Sep 2020"
+    degree: "PhD Student"
+    institution: "Chalmers University of Technology, Sweden"
+    advisor: "Giulia Ferrini"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Visiting Researcher
-      institution: Xanadu Quantum Technologies Inc., Toronto, Canada
-      year: 2023
-      description:
-        - Long-term visitor (3 months) at Xanadu Quantum Technologies Inc. in Toronto, Canada. Working towards an improved fault-tolerant architecture for quantum computing with continuous variables.
+  - period: "Aug 2020 - Sep 2020"
+    event: "IBM Quantum Error Correction Summer School 2022"
 
+  - period: "Aug 2020 - Oct 2018"
+    degree: "Master of Science in Physics"
+    institution: "RWTH Aachen University, Germany"
+    thesis: "Superconducting Quantum Circuits and their Application to Continuous-Variable Quantum Information"
+    advisor: "Göran Johansson"
+
+  - period: "Sep 2018 - Oct 2015"
+    degree: "Bachelor of Science in Physics"
+    institution: "RWTH Aachen University, Germany"
+    thesis: "Characterization of Steady States in Open Quantum Systems with Nonlinear Driving Fields"
+    advisor: "Mikhail Pletyukhov"
+
+professional_experience:
+  - period: "Present - Oct 2021"
+    position: "Independent Consultant"
+    company: "Xanadu Quantum Technologies Inc."
+    details: "Research on state preparation for fault-tolerant quantum computing with bosonic codes"
+
+  - period: "Aug 2020 - Oct 2019"
+    position: "Visiting Researcher"
+    institution: "Chalmers University of Technology, Sweden"
+    details: "Research project at Applied Quantum Physics Laboratory"
+
+awards_and_fellowships:
+  - year: 2020
+    award: "Excellence Initiative Nano Doctoral Fellowship"
+    details: "PhD students' own funding for choosing research group and project"
+
+  - year: 2020
+    award: "Dean's List"
+    institution: "RWTH Aachen University"
+    details: "Top five percent of the best graduates honored based on core semester"
+
+academic_citizenship:
+  journal_referee:
+    - "IEEE Trans. Comput.-Aided Des. Integr. Circuits Syst. (1 time)"
+    - "Physical Review A (2 times)"
+    - "Physical Review Letters (1 time)"
+    - "PRX Quantum (3 times)"
+    - "Quantum (2 times)"
+    - "Quantum Science and Technology (2 times)"
+
+teaching_and_supervision_experience:
+  - period: "Jun 2023 - Mar 2023"
+    role: "Teaching Assistant"
+    institution: "Chalmers University of Technology, Sweden"
+    course: "Open Quantum Systems"
+    details: "Development, grading, and correction of exercises and exam. Development of tutorials."
+
+  - period: "Jun 2022 - Sep 2021"
+    role: "Supervisor"
+    student: "Thomas Jaeken"
+    details: "Thresholds of the surface-Gottesman-Kitaev-Preskill codes for different error classes"
+
+  - period: "Oct 2019 - Apr 2019"
+    role: "Teaching Assistant"
+    institution: "RWTH Aachen University, Germany"
+    course: "Experimental Physics: Electromagnetism and Thermodynamics"
+    details: "Grading and correction of exercises, presentation, and explanation of master solutions."
+
+  - period: "Mar 2019 - Oct 2018"
+    role: "Teaching Assistant"
+    institution: "RWTH Aachen University, Germany"
+    course: "Physics Laboratory for Biology Students"
+    details: "Supervision of experiments, correction of laboratory reports."
+
+invited_talks:
+  - date: May 2023
+    venue: "Laboratory of Theoretical Physics of Nanosystems, EPFL Lausanne, Switzerland"
+    title: "Quantum error correction with dissipatively stabilized squeezed cat qubits"
+
+  - date: Mar 2023
+    venue: "Yale Quantum Institute, Yale University, New Haven, USA"
+    title: "Quantum error correction with dissipatively stabilized squeezed cat qubits"
+
+  - date: Dec 2022
+    venue: "NTT Computer and Data Science Laboratories, NTT Corporation, Tokyo, Japan"
+    title: "Quantum Error Correction with Bosonic Codes"
+
+  - date: Sep 2021
+    venue: "Centre for Quantum Computation and Communication Technology, RMIT University, Melbourne"
+    title: "Performance of teleportation-based error correction circuits for bosonic codes with noisy measurements"
+
+contributed_talks:
+  - date: Apr 2023
+    conference: "Quantum Computing Theory in Practice 2023"
+    title: "Quantum error correction with dissipatively stabilized squeezed cat qubits"
+
+  - date: Mar 2023
+    conference: "APS March Meeting 2023"
+    title: "Quantum error correction with dissipatively stabilized squeezed cat qubits"
+
+  - date: Mar 2022
+    conference: "APS March Meeting 2022"
+    title: "Performance of teleportation-based error correction circuits for bosonic codes with noisy measurements"
+
+  - date: Mar 2021
+    conference: "APS March Meeting 2021"
+    title: "Universal Gate Set for Continuous-Variable Quantum Computation with Microwave Circuits"
+
+poster_presentations:
+  - date: Feb 2023
+    conference: "26th Annual Conference on Quantum Information Processing (QIP 2023)"
+    title: "Quantum error correction with dissipatively stabilized squeezed cat qubits"
+
+  - date: Mar 2022
+    conference: "25th Annual Conference on Quantum Information Processing (QIP 2022)"
+    title: "Performance of teleportation-based error correction circuits for bosonic codes with noisy measurements"
+
+  - date: Nov 2020
+    conference: "Quantum Technology International Conference (QTech 2020)"
+    title: "Universal Gate Set for Continuous-Variable Quantum Computation with Microwave Circuits"
+
+# Skip the publications section
+
+# Additional Information (if needed)
+# scholarships_and_certificates:
+#   - year: 2006
+#     scholarship: "Scholarship for graduate students with an outstanding curriculum"
+#     amount: "EUR 30,000"
+
+#   - year: 2006
+#     exam: "Gmat"
+#     score: "730 (q:50;v:39), AWA: 6.0/6.0"
+
+# languages:
+#   - language: "German"
+#     proficiency: "Native speaker"
+#   - language: "English"
+#     proficiency: "Fluent"
+#   - language: "Swedish"
+#     proficiency: "Basic Knowledge"
+
+# additional_skills:
+#   - category: "Programming"
+#     skills: "Python, Maple, Latex"
+#   - category: "Graphics"
+#     skills: "Inkscape, Adobe Photoshop"
+
+# references:
+#   - name: "David DiVincenzo"
+#     position: "Professor"
+#     institution: "RWTH Aachen University"
+#     address: "Room MBP2 104, Otto-Blumenthal-Strasse 20, 52074 Aachen, Germany"
+#     phone: "+49 2418027003"
+#     email: "d.divincenzo@fz-juelich.de"
+
+#   - name: "Göran Johansson"
+#     position: "Professor"
+#     institution: "Chalmers University of Technology"
+#     address: "Room C250, Kemivägen 9, 412 58 Göteborg, Sweden"
+#     phone: "+46 317723237"
+#     email: "goran.l.johansson@chalmers.se"
