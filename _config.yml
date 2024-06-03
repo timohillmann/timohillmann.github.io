@@ -9,7 +9,7 @@ last_name: Hillmann
 email: hillmann@chalmers.se
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Timo Hillmann, a PhD student at Chalmers University of Technology.
-footer_text:
+footer_text: 
 keywords: bosonic codes, quantum error correction, quantum computing  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
