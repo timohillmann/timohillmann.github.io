@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on _Analog Information Decoding of Bosonic Quantum Low-Density Parity-Check Codes_ has been published in [PRX Quantum][https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020349].
+Our paper on _Analog Information Decoding of Bosonic Quantum Low-Density Parity-Check Codes_ has been published in [PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020349).
