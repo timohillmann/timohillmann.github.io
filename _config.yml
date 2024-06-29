@@ -292,8 +292,8 @@ scholar:
 
   query: "@*"
   group_by: year
-  group_order: descending
-  type_order: [prep, article, misc]
+  group_order: descending, ascending
+  type_order: [preprint, article, masterthesis]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
