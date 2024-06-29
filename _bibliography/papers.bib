@@ -52,6 +52,22 @@
   archiveprefix = {arxiv}
 }
 
+@preprint{hillmann_localized_2024,
+  title = {Localized statistics decoding: A parallel decoding algorithm for quantum low-density parity-check codes},
+  shorttitle = {Localized statistics decoding},
+  author = {Hillmann, Timo and Berent, Lucas and Quintavalle, Armanda O. and Eisert, Jens and Wille, Robert and Roffe, Joschka},
+  year = {2024},
+  month = jun,
+  number = {arXiv:2406.18655},
+  eprint = {2406.18655},
+  primaryclass = {quant-ph},
+  publisher = {arXiv},
+  url = {http://arxiv.org/abs/2406.18655},
+  urldate = {2024-06-28},
+  abstract = {Quantum low-density parity-check codes are a promising candidate for fault-tolerant quantum computing with considerably reduced overhead compared to the surface code. However, the lack of a practical decoding algorithm remains a barrier to their implementation. In this work, we introduce localized statistics decoding, a reliability-guided inversion decoder that is highly parallelizable and applicable to arbitrary quantum low-density parity-check codes. Our approach employs a parallel matrix factorization strategy, which we call on-the-fly elimination, to identify, validate, and solve local decoding regions on the decoding graph. Through numerical simulations, we show that localized statistics decoding matches the performance of state-of-the-art decoders while reducing the runtime complexity for operation in the sub-threshold regime. Importantly, our decoder is more amenable to implementation on specialized hardware, positioning it as a promising candidate for decoding real-time syndromes from experiments.},
+  archiveprefix = {arxiv}
+}
+
 @article{hillmann_performance_2022,
   ids = {hillmann_performance_2021},
   title = {Performance of Teleportation-Based Error-Correction Circuits for Bosonic Codes with Noisy Measurements},
@@ -138,4 +154,19 @@
   archiveprefix = {arxiv},
   copyright = {2023 The Author(s)},
   langid = {english}
+}
+
+@preprint{scruby_high-threshold_2024,
+  title = {High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory},
+  author = {Scruby, Thomas R. and Hillmann, Timo and Roffe, Joschka},
+  year = {2024},
+  month = jun,
+  number = {arXiv:2406.14445},
+  eprint = {2406.14445},
+  primaryclass = {quant-ph},
+  publisher = {arXiv},
+  url = {http://arxiv.org/abs/2406.14445},
+  urldate = {2024-06-21},
+  abstract = {We present a new family of quantum low-density parity-check codes, which we call radial codes, obtained from the lifted product of a specific subset of classical quasi-cyclic codes. The codes are defined using a pair of integers \$(r,s)\$ and have parameters \$[{\textbackslash}![2r{\textasciicircum}2s,2(r-1){\textasciicircum}2,{\textbackslash}leq2s]{\textbackslash}!]\$, with numerical studies suggesting average-case distance linear in \$s\$. In simulations of circuit-level noise, we observe comparable error suppression to surface codes of similar distance while using approximately five times fewer physical qubits. This is true even when radial codes are decoded using a single-shot approach, which can allow for faster logical clock speeds and reduced decoding complexity. We describe an intuitive visual representation, canonical basis of logical operators and optimal-length stabiliser measurement circuits for these codes, and argue that their error correction capabilities, tunable parameters and small size make them promising candidates for implementation on near-term quantum devices.},
+  archiveprefix = {arxiv}
 }
