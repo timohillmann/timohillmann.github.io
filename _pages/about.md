@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: header.JPG
+  image: timo_square_les_houches.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
