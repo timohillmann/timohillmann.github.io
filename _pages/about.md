@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ph.D student @ Chalmers University of Technology, Sweden.
+Postdoctoral Researcher @ University of Sydney, Australia
 
-I am a Ph.D student working in the field of quantum information. My research focusses on the theory of quantum error correction with bosonic codes, typically with a focus on concepts relevant to near-term devices. My projects so far range from the development of architectures for bosonic codes realized in superconducting circuits as well as in optical systems, to the development of new error correction protocols and decoders with a focus on the utilization of analog information.
+I am a researcher working in the field of quantum information. My research focusses on the theory of quantum error correction with bosonic codes, typically with a focus on concepts relevant to near-term devices. My projects so far range from the development of architectures for bosonic codes realized in superconducting circuits as well as in optical systems, to the development of new error correction protocols and decoders with a focus on the utilization of analog information.
+
+I completed my PhD at Chalmers University of Technology, Sweden, where I worked on theoretical aspects of quantum error correction for near-term quantum devices.
