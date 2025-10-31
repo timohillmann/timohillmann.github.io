@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fault complexes
+title: Fault Complexes
 description: 
 img: assets/img/mbqc_single_shot_key_image.png
 importance: 1

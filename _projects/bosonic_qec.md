@@ -5,7 +5,7 @@ description:
 img: assets/img/squeezed_cat.png
 importance: 1
 category: work
-related_publications: hillmann_performance_2022, hillmann_quantum_2023, berent_analog_2023
+related_publications: hillmann_performance_2022, hillmann_quantum_2023, berent_analog_2023, walshe_linear-optical_2025
 ---
 
 Quantum error correction is crucial for scalable quantum information processing applications. Traditional discrete-variable quantum codes that use multiple two-level systems to encode logical information can be hardware-intensive. An alternative approach is provided by bosonic codes, which use the infinite-dimensional Hilbert space of harmonic oscillators to encode quantum information.
