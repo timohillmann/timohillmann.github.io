@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Timo
 middle_name:
 last_name: Hillmann
-email: hillmann@chalmers.se
+email: timo.hillmann@rwth-aachen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Timo Hillmann, a PhD student at Chalmers University of Technology.
+  Personal website of Timo Hillmann, a postdoctoral fellow at The University of Sydney.
 footer_text: 
 keywords: bosonic codes, quantum error correction, quantum computing  # add your own keywords or leave empty
 
